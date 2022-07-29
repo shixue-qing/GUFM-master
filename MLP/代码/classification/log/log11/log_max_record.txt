@@ -1,0 +1,3 @@
+**** EPOCH 000 ****
+eval accuracy: 1.000000
+Model saved in file: E:\MLP\ДњТы\classification\log\log11\model_max_record.ckpt

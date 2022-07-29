@@ -1,0 +1,73 @@
+Namespace(batch_size=10, debug=False, decay_rate=0.8, decay_step=200000, eval_rotation=False, learning_rate=0.001, log_dir='log11', max_epoch=10, model='pointnet2_cls_ssg_spec_cp', momentum=0.9, neighbor=32, normal=False, num_point=2000, optimizer='adam', subdir='')
+Namespace(batch_size=10, debug=False, decay_rate=0.8, decay_step=200000, eval_rotation=False, learning_rate=0.001, log_dir='log11', max_epoch=10, model='pointnet2_cls_ssg_spec_cp', momentum=0.9, neighbor=32, normal=False, num_point=2000, optimizer='adam', subdir='')
+**** EPOCH 000 ****
+2022-03-02 13:34:57.468274
+2022-03-02 13:35:00.698630
+---- EPOCH 000 EVALUATION ----
+eval mean loss: 0.000000
+eval accuracy: 1.000000
+eval avg class acc: nan
+Model saved in file: E:\MLP\ДњТы\classification\log\log11\model.ckpt
+**** EPOCH 001 ****
+2022-03-02 13:35:56.919137
+2022-03-02 13:36:00.075694
+---- EPOCH 001 EVALUATION ----
+eval mean loss: 0.000000
+eval accuracy: 1.000000
+eval avg class acc: nan
+**** EPOCH 002 ****
+2022-03-02 13:36:00.363921
+2022-03-02 13:36:03.548402
+---- EPOCH 002 EVALUATION ----
+eval mean loss: 0.000000
+eval accuracy: 1.000000
+eval avg class acc: nan
+**** EPOCH 003 ****
+2022-03-02 13:36:03.875526
+2022-03-02 13:36:07.099900
+---- EPOCH 003 EVALUATION ----
+eval mean loss: 0.000000
+eval accuracy: 1.000000
+eval avg class acc: nan
+**** EPOCH 004 ****
+2022-03-02 13:36:07.425030
+2022-03-02 13:36:10.658380
+---- EPOCH 004 EVALUATION ----
+eval mean loss: 0.000000
+eval accuracy: 1.000000
+eval avg class acc: nan
+**** EPOCH 005 ****
+2022-03-02 13:36:10.983509
+2022-03-02 13:36:14.192923
+---- EPOCH 005 EVALUATION ----
+eval mean loss: 0.000000
+eval accuracy: 1.000000
+eval avg class acc: nan
+**** EPOCH 006 ****
+2022-03-02 13:36:14.525034
+2022-03-02 13:36:17.741429
+---- EPOCH 006 EVALUATION ----
+eval mean loss: 0.000000
+eval accuracy: 1.000000
+eval avg class acc: nan
+**** EPOCH 007 ****
+2022-03-02 13:36:18.080522
+2022-03-02 13:36:21.314870
+---- EPOCH 007 EVALUATION ----
+eval mean loss: 0.000000
+eval accuracy: 1.000000
+eval avg class acc: nan
+**** EPOCH 008 ****
+2022-03-02 13:36:21.647978
+2022-03-02 13:36:24.866368
+---- EPOCH 008 EVALUATION ----
+eval mean loss: 0.000000
+eval accuracy: 1.000000
+eval avg class acc: nan
+**** EPOCH 009 ****
+2022-03-02 13:36:25.200474
+2022-03-02 13:36:28.406896
+---- EPOCH 009 EVALUATION ----
+eval mean loss: 0.000000
+eval accuracy: 1.000000
+eval avg class acc: nan
